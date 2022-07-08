@@ -12,7 +12,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Consult the final result on [https://multi-lang-prismic.vercel.app/](https://multi-lang-prismic/vercel.app) with your browser to see the final result.
+Consult the final result on [https://multi-lang-prismic.vercel.app/](https://multi-lang-prismic.vercel.app) with your browser to see the final result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
